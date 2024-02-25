@@ -9,7 +9,7 @@ Demo: https://benny-airbnb.vercel.app/
     <td><img src="screenshots/airbnb2.jpg" width=540></td>
   </tr>
   <tr>
-    <td><img src="screenshots/airbnb3.jpg" width=540></td>
-    <td><img src="screenshots/airbnb4.jpg" width=540></td>
+    <td><img src="screenshots/airbnb3.jpg"></td>
+    <td><img src="screenshots/airbnb4.jpg"></td>
   </tr>
 </table>
