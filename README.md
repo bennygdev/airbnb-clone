@@ -1,5 +1,15 @@
 ## Airbnb Clone
 This is a project made with NextJS 13, React, TailwindCSS, MongoDB. It is a replica of airbnb's website, but not fully as all features are not present. Cloudinary CDN is used for image upload and displaying images, it also includes google and github login.
-Demo: [Here]https://benny-airbnb.vercel.app/
-![image](https://github.com/bennygdev/airbnb-clone/assets/39120147/6b555434-9655-4d5a-9dda-68ea2f925c9a) | ![image](https://github.com/bennygdev/airbnb-clone/assets/39120147/69994657-01a4-4880-83a9-d09c9b7a1eea)
+Demo: https://benny-airbnb.vercel.app/
 
+## Screenshots
+<table>
+  <tr>
+    <td><img src="screenshots/airbnb1.jpg" width=540></td>
+    <td><img src="screenshots/airbnb2.jpg" width=540></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/airbnb3.jpg" width=540></td>
+    <td><img src="screenshots/airbnb4.jpg" width=540></td>
+  </tr>
+</table>
