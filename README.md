@@ -1,4 +1,5 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Airbnb Clone
+This is a project made with NextJS 13, React, TailwindCSS, MongoDB. It is a replica of airbnb's website, but not fully as all features are not present. Cloudinary CDN is used for image upload and displaying images, it also includes google and github login.
+Demo: [Here]https://benny-airbnb.vercel.app/
+![image](https://github.com/bennygdev/airbnb-clone/assets/39120147/6b555434-9655-4d5a-9dda-68ea2f925c9a) | ![image](https://github.com/bennygdev/airbnb-clone/assets/39120147/69994657-01a4-4880-83a9-d09c9b7a1eea)
 
-## Features
-Updating later
